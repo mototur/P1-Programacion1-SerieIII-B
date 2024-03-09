@@ -1,0 +1,7 @@
+C:\Users\Lucia Sandoval\OneDrive\Desktop\Serie III, parcial 1\Serie III, parcial 1\Serie III, parcial 1\bin\Debug\Serie III, parcial 1.exe.config
+C:\Users\Lucia Sandoval\OneDrive\Desktop\Serie III, parcial 1\Serie III, parcial 1\Serie III, parcial 1\bin\Debug\Serie III, parcial 1.exe
+C:\Users\Lucia Sandoval\OneDrive\Desktop\Serie III, parcial 1\Serie III, parcial 1\Serie III, parcial 1\bin\Debug\Serie III, parcial 1.pdb
+C:\Users\Lucia Sandoval\OneDrive\Desktop\Serie III, parcial 1\Serie III, parcial 1\Serie III, parcial 1\obj\Debug\Serie III, parcial 1.csproj.AssemblyReference.cache
+C:\Users\Lucia Sandoval\OneDrive\Desktop\Serie III, parcial 1\Serie III, parcial 1\Serie III, parcial 1\obj\Debug\Serie III, parcial 1.csproj.CoreCompileInputs.cache
+C:\Users\Lucia Sandoval\OneDrive\Desktop\Serie III, parcial 1\Serie III, parcial 1\Serie III, parcial 1\obj\Debug\Serie III, parcial 1.exe
+C:\Users\Lucia Sandoval\OneDrive\Desktop\Serie III, parcial 1\Serie III, parcial 1\Serie III, parcial 1\obj\Debug\Serie III, parcial 1.pdb
